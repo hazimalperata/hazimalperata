@@ -21,7 +21,7 @@
    <a href="https://open.spotify.com/user/sw1cnigfriu2uj7ya2ku3a1dp">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=sw1cnigfriu2uj7ya2ku3a1dp&count=5&unique=true" alt="Spotify recently played"  />
   </a>
-<img align="right" height="170" src="https://media1.tenor.com/m/D4UcETbrUEQAAAAd/jet-fighter.gif"  />
+<img align="right" height="300" src="https://media1.tenor.com/m/D4UcETbrUEQAAAAd/jet-fighter.gif"  />
 </div>
 
 ###
