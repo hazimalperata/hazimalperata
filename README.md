@@ -10,8 +10,10 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=hazimalperata&theme=dark&hide_border=false&include_all_commits=true&count_private=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hazimalperata&theme=dark&hide_border=false" height="150" alt="streak graph"  />
+
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hazimalperata&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" height="150" alt="languages graph"  />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=hazimalperata&theme=dark&hide_border=false" height="150" alt="streak graph"  />
+  <img src="https://leetcard.jacoblin.cool/hazimalperata?theme=dark&font=Lexend%20Exa&ext=heatmap" height="150" alt="leetcode stats"  />
 </div>
 
 ###
