@@ -33,7 +33,7 @@
 ###
 
 # 💫 About Me:
-🔭 I’m currently working on Searcly<br>👯 I’m looking to collaborate on React, Next.js, React Native, and frontend development projects<br>🤝 I’m looking for help with improving my backend skills and mobile app development with React Native on Expo<br>🌱 I’m currently learning full-stack development, Advanced OOP, and German<br>💬 Ask me about frontend development, Next.js, React, TypeScript, and Sanity CMS<br>⚡ Fun fact I love landscape photography and military history, and I’m working on a library that lets users open resizable modals like windows in React!
+🔭 I'm currently in the development phase<br>👯 I’m looking to collaborate on React, Next.js, React Native, and frontend development projects<br>🤝 I’m looking for help with improving my backend skills and mobile app development with React Native on Expo<br>🌱 I’m currently learning full-stack development, Advanced OOP, and German<br>💬 Ask me about frontend development, Next.js, React, TypeScript, and Sanity CMS<br>⚡ Fun fact I love landscape photography and military history, and I’m working on a library that lets users open resizable modals like windows in React!
 
 
 ## 🌐 Socials:
